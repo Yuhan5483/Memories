@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #f6f5f5;
+    /* background-color: #e1f2fb; */
+}
+
+img {
+    height: 500px;
+}
+
+video {
+    height: 500px;
+}
+
+hr {
+    border-style: dotted;
+    border-bottom: none;
+    border-width: 5px;
+    width: 5%;
+    color: #efb1ff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+
+.heading {
+    font-family: 'Dancing Script', cursive;
+    margin-top: 0;
+    padding-top: 50px;
+    font-size: 100px;
+}
+
+
+
+
+p {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
+    width: 90%;
+    margin: 0 auto 0;
+    line-height: 2;
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+.top-container {
+    background-color: #ffe2ff;
+    height: 800px;
+    margin-bottom: 150px;
+}
+
+.media-container {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+
+.middle-text-1 {
+    background-color: #ffe2ff;
+    height: 400px;
+}
+.middle-text-2 {
+    background-color: #ffe2ff;
+    height: 400px;
+}
+
+.bottom-container {
+    color: #ff427f;
+    background-color: #ffe2ff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.copyright {
+    color: black;
+    font-size: 0.75rem;
+}
+
+.tata {
+    font-size: 25px;
+}
